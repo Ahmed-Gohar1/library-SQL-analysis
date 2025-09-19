@@ -8,7 +8,7 @@ A professional SQL project for robust database design, CRUD operations, and adva
 
 Below is the ERD showing table structures and relationships:
 
-![Entity Relationship Diagram](image1)
+![Entity Relationship Diagram](schema.png)
 
 ---
 
